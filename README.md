@@ -1,3 +1,3 @@
-# python-projects
+# Bootcamp-python-projects
 
-Sisterslab - Github eğitimi deneme yazısı.
+Sisterslab - Github eğitimi çalışma sayfasıdır.
